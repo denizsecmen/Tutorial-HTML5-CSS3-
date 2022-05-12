@@ -1,0 +1,20 @@
+body{
+    background-color: black;
+}
+#test
+{
+    height: 300px;
+    width: 400px;
+    background-color: lime;
+    border:2px solid red;
+}
+#a
+{
+    height: 300px;
+    width: 400px;
+    background-color: blue;
+    border:6px;
+    border-style:dashed; 
+    border-color:gray;
+    border-radius: 200px;
+}

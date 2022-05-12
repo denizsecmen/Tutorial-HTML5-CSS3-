@@ -1,0 +1,19 @@
+#test
+{
+    font-family:'Festive',cursive;
+    color:red;
+    font-size: 22px;
+    text-align: center;
+}
+#test2
+{
+    color:lime;
+    font-size: 22px;
+    text-align:center;
+    font-family: "sdadsas",Verdana, Geneva, Tahoma, sans-serif;
+    /*add other fonts for possible non exsistence of first font*/
+}
+body
+{
+background-color: black;
+}

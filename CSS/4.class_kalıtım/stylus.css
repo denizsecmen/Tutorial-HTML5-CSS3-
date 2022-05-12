@@ -1,0 +1,17 @@
+.futbol{
+ color:chartreuse;
+}
+.voleyboll
+{
+    color:chocolate;
+}
+p{
+    color:darkblue !important;
+}
+body{
+ background-color:black;
+ color:blue;
+ text-align: center;
+ font-size: 48px;
+}
+/*Id>Class>normal tag except using !important !!!*/

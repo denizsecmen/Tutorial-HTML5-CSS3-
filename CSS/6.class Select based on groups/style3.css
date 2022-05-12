@@ -1,0 +1,17 @@
+a{
+    font-size:17px;
+
+}
+img[src="ss.jpg"]
+{
+    border:3px solid lime;
+    border: brown;
+}
+a:link{
+    color:blue;
+}
+a:hover{
+    color:red;
+    text-decoration: none;
+}
+/* you can choose element based on attribute a[href="...."]{} example.*/

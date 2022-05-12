@@ -1,0 +1,22 @@
+*{
+    color:blue;
+}
+body{
+background-color: black;
+}
+/*Select All.*/
+div.paragrasa
+{
+color:lime;
+}
+div>p
+{
+color:chocolate;
+}
+h1,h4
+{
+ color:burlywood;
+}
+
+/*>:child elements*/
+/*~:brother tags*/
